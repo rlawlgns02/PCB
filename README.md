@@ -10,6 +10,7 @@
 - **기본 전역 심볼 라이브러리 테이블 복사** 선택후 확인 클릭
 ![Image](https://github.com/user-attachments/assets/1a6c81e8-8666-4630-913a-2761a30b083a)
 
+
 ### 기본 조작법
 - 휠을 통해서 확대 - 축소
 - 화면이 너무 커지거나 작아질 경우 키보드 Home 버튼을 통해서 딱 맞게 설정
@@ -38,7 +39,8 @@
 - 대략적으로 위치를 원하는대로 수정한 후 사각형 그리기를 통해 크기 설정
 - 단선 배치(X)를 통해서 전선 배치
 ![Image](https://github.com/user-attachments/assets/5899eb8b-bfed-459b-9aeb-95353b3ee21e)
-
+- 3D뷰어를 이용해서 예상 모습을 볼 수 있다
+![Image](https://github.com/user-attachments/assets/18c889ff-a8cb-48ac-be46-cec75d2798f8)
 ## 5. 기판 제조 출력 
 - 파일 - 기판 제조 출력 - 거버 파일(.grb)
 - 출력 디렉토리를 본인의 프로젝트 디렉토리 하위 디렉토리에 `gerber`를 생성후 플롯 버튼 클릭
